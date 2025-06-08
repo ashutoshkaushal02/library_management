@@ -2,12 +2,12 @@
 This project is a Library Management System that allows for efficient management of a library's operations. It provides functionalities to track books, customers, employees, book issuance, and returns. The system, done using SQL, maintains a comprehensive database of books, their availability status, rental cost, and other relevant details. It also enables effective management of customers and employees associated with the library.
 <br>
 
-Database Setup
+**Database Setup**
 <br>
 Create a new database named "Library" to store the information.
 <br>
 
-Features
+**Features**
 <br>
 Book Management: Add, update, and remove books from the library's collection. Track book details such as title, category, rental price, availability status, author, and publisher.
 <br>
@@ -25,7 +25,7 @@ Branch Management: Maintain information about library branches, including branch
 <br>
 
 
-Queries and Analysis
+**Queries and Analysis**
 <br>
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the library's data. Some of the key queries implemented include:
 <br>
